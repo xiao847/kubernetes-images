@@ -4,5 +4,4 @@ services:
 - docker
 
 script:
-- docker login -u $ALI_USERNAME registry.cn-shanghai.aliyuncs.com -p $ALI_PASSWORD
 - bash push-images.sh
