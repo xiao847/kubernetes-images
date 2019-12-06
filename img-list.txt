@@ -6,3 +6,5 @@ gcr.io/google-containers/pause:3.1
 gcr.io/google-containers/etcd:3.4.3
 gcr.io/google-containers/coredns:1.6.5
 gcr.io/google-containers/kube-apiserver:v1.14.0
+gcr.io/etcd:3.3.15-0
+gcr.io/coredns:1.6.2
