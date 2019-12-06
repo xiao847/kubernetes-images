@@ -5,3 +5,4 @@ gcr.io/google-containers/kube-scheduler:v1.16.3
 gcr.io/google-containers/pause:3.1
 gcr.io/google-containers/etcd:3.4.3
 gcr.io/google-containers/coredns:1.6.5
+gcr.io/google-containers/kube-apiserver:v1.14.0
